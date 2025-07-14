@@ -1,6 +1,6 @@
 # 🛍️ Challenge Alura - Análise de Vendas das Lojas
 
-Este projeto foi desenvolvido como parte do desafio de Data Science da Alura, com o objetivo de realizar uma análise exploratória dos dados de vendas de duas lojas. Através de gráficos e estatísticas, foi possível obter insights importantes sobre faturamento, produtos, categorias e logística.
+Este projeto foi desenvolvido como parte do desafio de Data Science da Alura, com o objetivo de realizar uma análise exploratória dos dados de vendas de quatro lojas. Através de gráficos e estatísticas, foi possível obter insights importantes sobre faturamento, produtos, categorias e logística.
 
 ---
 
