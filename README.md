@@ -30,4 +30,4 @@ Analisar os dados de vendas das lojas para responder perguntas como:
 
 1. Clone este repositório:
    ```bash
-   git clone https://github.com/seu-usuario/challenge-alura-lojas.git
+   git clone https://github.com/rogerio-jp/challenge-alura-lojas.git
